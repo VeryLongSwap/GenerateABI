@@ -1,0 +1,20 @@
+{
+  "name": "generateabi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate": "wagmi generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@wagmi/cli": "^1.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "wagmi": "^1.4.11"
+  }
+}
